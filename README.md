@@ -15,7 +15,7 @@
      <tr/>
     <tr>
        <th>Author</th>
-       <td><a href="mailto:rekcahemal@gmail.com">Tasos Laskos</a> (<a href="http://twitter.com/lamehacker">@lamehacker</a>)</td>
+       <td><a href="mailto:rekcahemal@gmail.com">GERASIMOS KASSARAS</a> (<a href="http://twitter.com/lamehacker">@lamehacker</a>)</td>
     </tr>
     <tr>
         <th>Copyright</th>
